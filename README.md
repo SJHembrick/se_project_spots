@@ -1,6 +1,4 @@
-#
-
-![Spots project banner](<./images/github-header-banner%20(1).png>)
+_![Spots project banner](<./images/github-header-banner%20(1).png>)_
 
 **Intro**
 
@@ -18,3 +16,8 @@ Spots is a social media web application which features elements that are display
 **Images**
 
 ![Spots screenshot image](./images/Screenshot%202025-11-18%20203932.png)
+
+**Deployment**
+
+this webpage is deployed to Github Pages.
+https://sjhembrick.github.io/se_project_spots/
