@@ -1,8 +1,15 @@
+#
+
 ![Spots project banner](<./images/github-header-banner%20(1).png>)
 
 **Intro**
 
-Spots is a social media web application which features elements that are displayed correctly on popular screen sizes via media queries. Users can like, share, explore, and express themselves.
+Spots is a social media web application which features elements that are displayed correctly on popular screen sizes via media queries. Users can like, share, explore, and express themselves. The Spots web app inludes the following:
+
+- HTML
+- css
+- Responsive design
+- Media queries
 
 **Figma**
 

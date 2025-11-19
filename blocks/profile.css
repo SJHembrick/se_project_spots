@@ -17,6 +17,11 @@
   align-self: flex-end;
 }
 
+.profile__add-button:hover {
+  opacity: 80%;
+  cursor: pointer;
+}
+
 .profile__avatar {
   margin-right: 20px;
   height: 190px;
@@ -63,6 +68,12 @@
   font-family: "Poppins", Arial, Helvetica, sans-serif;
   border: none;
   letter-spacing: 0;
+  opacity: 70%;
+}
+
+.profile__edit-button:hover {
+  opacity: 100%;
+  cursor: pointer;
 }
 
 .add__button-icon {
