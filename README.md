@@ -1,14 +1,8 @@
-### Overview
-
 ![Spots project banner](<./images/github-header-banner%20(1).png>)
-
-- Intro
-- Figma
-- Images
 
 **Intro**
 
-.Spots is made so all the elements are displayed correctly on popular screen sizes.
+Spots is a social media web application which features elements that are displayed correctly on popular screen sizes via media queries. Users can like, share, explore, and express themselves.
 
 **Figma**
 
@@ -16,6 +10,4 @@
 
 **Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
+![Spots screenshot image](./images/Screenshot%202025-11-18%20203932.png)
