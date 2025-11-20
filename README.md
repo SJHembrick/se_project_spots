@@ -21,3 +21,8 @@ Spots is a social media web application which features elements that are display
 
 this webpage is deployed to Github Pages.
 https://sjhembrick.github.io/se_project_spots/
+
+**Project pitch video**
+
+Check out this video [https://drive.google.com/file/d/11XVnAifaca3PFt6vxkRQLJPvDC7MYt1o/view?usp=sharing], where I describe my
+project and some challenges I faced while building it.
