@@ -22,6 +22,15 @@
   cursor: pointer;
 }
 
+.card__like-button_active {
+  background-image: url(../images/liked-img.svg);
+  opacity: 1;
+}
+
+.card__like-button_active:hover {
+  opacity: 0.4;
+}
+
 .card__like-button:hover {
   cursor: pointer;
   opacity: 100%;
