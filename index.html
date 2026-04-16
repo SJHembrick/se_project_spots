@@ -70,6 +70,7 @@
               >Name
               <input
                 id="profile-name-input"
+                required
                 type="text"
                 class="modal__input"
                 placeholder="Type your name"
@@ -79,6 +80,7 @@
               Description
               <input
                 id="profile-description-input"
+                required
                 type="text"
                 class="modal__input"
                 placeholder="Describe yourself"
@@ -97,6 +99,7 @@
               >Image link
               <input
                 id="card-image-input"
+                required
                 type="url"
                 class="modal__input"
                 placeholder="paste a link to the picture"
@@ -106,6 +109,7 @@
               Caption
               <input
                 id="card-caption-input"
+                required
                 type="text"
                 class="modal__input"
                 placeholder="Type your caption"
@@ -117,12 +121,14 @@
       </div>
     </div>
 
-     <div class="modal modal_type_preview" id="preview-modal">
-        <div class="modal__image-container">
-          <button type="button" class="modal__close-btn modal__close-btn_type_preview"></button>
-          <img src="https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/7-photo-by-griffin-wooldridge-from-pexels.jpg" alt="" class="modal__image">
-          <p class="modal__caption">Golden Gate Bridge</p>
-        </div>
+    <div class="modal modal_type_preview" id="preview-modal">
+      <div class="modal__image-container">
+        <button
+          type="button"
+          class="modal__close-btn modal__close-btn_type_preview"
+        ></button>
+        <img src="#" alt="" class="modal__image" />
+        <p class="modal__caption">Golden Gate Bridge</p>
       </div>
     </div>
 

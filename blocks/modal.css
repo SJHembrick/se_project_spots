@@ -16,7 +16,7 @@
   padding: 0 10px;
 }
 
-.modal .modal_type_preview {
+.modal_type_preview {
   padding: 0 16px;
 }
 
@@ -138,10 +138,6 @@
 }
 
 .modal__caption {
-  /*testing a correction to small error noticed during website functionality test. Modal Captions bleeding outside of container*/
-  display: flex;
-  flex-direction: column;
-  /*end of solution to issue*/
   background-color: #212121;
   font-family: Poppins, Arial, Helvetica, sans-serif;
   line-height: 120%;
@@ -151,8 +147,7 @@
   margin-top: 8px;
   text-align: center;
   letter-spacing: 0;
-  width: 214px;
-  /*possible bleeding culprit below. Keeping it here in case code reviewer want to stick to spelled out design*/
+  position: absolute;
   /*height: 32px;*/
   border-radius: 8px;
 }

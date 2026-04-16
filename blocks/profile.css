@@ -21,7 +21,7 @@
 }
 
 .profile__add-button:hover {
-  opacity: 80%;
+  opacity: 0.8;
 }
 
 .profile__avatar {
@@ -76,12 +76,12 @@
   font-family: "Poppins", Arial, Helvetica, sans-serif;
   border: none;
   letter-spacing: 0;
-  opacity: 70%;
+  opacity: 0.7;
   cursor: pointer;
 }
 
 .profile__edit-button:hover {
-  opacity: 100%;
+  opacity: 1;
 }
 
 .profile__add-icon {

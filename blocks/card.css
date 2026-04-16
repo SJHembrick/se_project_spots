@@ -12,6 +12,11 @@
   object-fit: cover;
   border-radius: 8px;
   display: block;
+  cursor: pointer;
+}
+
+.card__image:hover {
+  box-shadow: 2px 2px 2px 2px grey;
 }
 
 .card__content {
@@ -25,7 +30,7 @@
   height: 20px;
   border: none;
   background: transparent url(../images/heart-icon.svg) center/contain no-repeat;
-  opacity: 40%;
+  opacity: 0.4;
   cursor: pointer;
 }
 
@@ -40,7 +45,7 @@
 
 .card__like-button:hover {
   cursor: pointer;
-  opacity: 100%;
+  opacity: 1;
 }
 
 .card__title {
